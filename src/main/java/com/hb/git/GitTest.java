@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("gitee test1");
         System.out.println("gitee test1");
          System.out.println("pull test1");
+         System.out.println("pull test2");
     }
 }
